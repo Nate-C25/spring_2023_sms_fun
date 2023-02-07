@@ -1,1 +1,1 @@
-# spring_2023_sms_drunkbot
+# spring_2023_sms_fun_drunkbot
