@@ -4,7 +4,7 @@ secrets:
 college:
         name: "WhatsAMatterU"
 chatbot:
-        name: "Bianca Del Rio"
+        name: "Drunk Bot"
 twillio:
         phone_number: "+18588425920"
 
