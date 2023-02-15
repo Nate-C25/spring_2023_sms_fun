@@ -18,7 +18,8 @@
     "yo": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "What did you just say to me?!?"
     ],
     "hi": [
       "Hey there",
@@ -56,8 +57,11 @@
     "milk": [
       "Not quite what I meant"
     ],
-    "h": [
-      "DID NOT FIND"
+    "what are you drinking?": [
+      "Depends whos asking..."
+    ],
+    "how are you doing": [
+      "I need a cigarette"
     ],
     "aaaaaaaaaaaaaaaaaaa": [
       "DID NOT FIND"
