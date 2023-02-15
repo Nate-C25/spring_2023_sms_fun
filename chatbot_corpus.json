@@ -3,28 +3,33 @@
     "hello": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "Wanna take a shot?"
     ],
     "heyo": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "Wanna take a shot?"
     ],
     "hey": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "Wanna take a shot?"
     ],
     "yo": [
       "Hey there",
       "piss off",
       "Hey what is your favorite drink?",
-      "What did you just say to me?!?"
+      "What did you just say to me?!?",
+      "Wanna take a shot?"
     ],
     "hi": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "Wanna take a shot?"
     ],
     "drunk": [
       "Nah I'm goood just had a couple rounds",
@@ -34,22 +39,26 @@
     "wasted": [
       "Nah I'm goood just had a couple rounds",
       "I ain't drunk",
-      "Hah I think I would know if I was drunk"
+      "Hah I think I would know if I was drunk",
+      "Wanna take a shot?"
     ],
     "party": [
       "\u2764\ufe0f"
     ],
     "vodka": [
       "Good choice",
-      "Mine as well"
+      "Mine as well",
+      "Wanna take a shot?"
     ],
     "liquor": [
       "Good choice",
-      "Mine as well"
+      "Mine as well",
+      "Wanna take a shot?"
     ],
     "tequila": [
       "Good choice",
-      "Mine as well"
+      "Mine as well",
+      "Wanna take a shot?"
     ],
     "wine": [
       "Not my first choice"
@@ -61,7 +70,8 @@
       "Depends whos asking..."
     ],
     "how are you doing": [
-      "I need a cigarette"
+      "I need a cigarette",
+      "Wanna take a shot?"
     ],
     "aaaaaaaaaaaaaaaaaaa": [
       "DID NOT FIND"
