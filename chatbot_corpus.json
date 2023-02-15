@@ -3,65 +3,88 @@
     "hello": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "whats up"
     ],
     "heyo": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "what"
     ],
     "hey": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "I'm busy"
     ],
     "yo": [
       "Hey there",
       "piss off",
       "Hey what is your favorite drink?",
-      "What did you just say to me?!?"
+      "yo yo yo"
     ],
     "hi": [
       "Hey there",
       "piss off",
-      "Hey what is your favorite drink?"
+      "Hey what is your favorite drink?",
+      "hwllo"
     ],
     "drunk": [
       "Nah I'm goood just had a couple rounds",
       "I ain't drunk",
-      "Hah I think I would know if I was drunk"
+      "Hah I think I would know if I was drunk",
+      "I wish",
+      "no do you wanna grab a drink tho",
+      "very",
+      "piss off"
     ],
     "wasted": [
       "Nah I'm goood just had a couple rounds",
       "I ain't drunk",
-      "Hah I think I would know if I was drunk"
+      "Hah I think I would know if I was drunk",
+      "not enough to stop me from driving to the bar"
     ],
     "party": [
-      "\u2764\ufe0f"
+      "\u2764\ufe0f",
+      "when"
+      "where"
+      "where at"
+      "will there be alc"
     ],
     "vodka": [
       "Good choice",
-      "Mine as well"
+      "Mine as well",
+      "that shit is the best"
     ],
     "liquor": [
       "Good choice",
-      "Mine as well"
+      "Mine as well",
+      "? I barely know her",
+      "I'm fresh out",
+      "I want some"
     ],
     "tequila": [
       "Good choice",
-      "Mine as well"
+      "Mine as well",
+      "got any limes",
+      "sí",
+      "maybe",
+      "I could be convinced"
     ],
     "wine": [
-      "Not my first choice"
+      "Not my first choice",
+      "is it already wednesday",
+      "time to slap the bag?"
     ],
     "milk": [
-      "Not quite what I meant"
+      "Not quite what I meant",
+      "yeah no"
+      "not the best mixer I've ever had",
+      "thats wack"
     ],
-    "what are you drinking?": [
-      "Depends whos asking..."
-    ],
-    "how are you doing": [
-      "I need a cigarette"
+    "h": [
+      "DID NOT FIND"
     ],
     "aaaaaaaaaaaaaaaaaaa": [
       "DID NOT FIND"
@@ -75,7 +98,7 @@
     "pogchamp": [
       "DID NOT FIND"
     ],
-    "testing": [
+    "testing first": [
       "DID NOT FIND"
     ],
     "testing second ": [
@@ -86,6 +109,11 @@
     ],
     "your favorite": [
       "DID NOT FIND"
+    ],
+    "what's good": [
+      "just drinking",
+      "gonna head out and grab a drink",
+      "this beer"
     ]
   }
 }
